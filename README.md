@@ -9,7 +9,7 @@ github - (https://github.com/austindavis95)
 ##Project Links:
 
 github: work-day-schedule; https://github.com/austindavis95/work-day-schedule
-Live URL: 
+Live URL: https://austindavis95.github.io/work-day-schedule/
 
 ## work-day-schedule
 
